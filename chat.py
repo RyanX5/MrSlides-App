@@ -6,7 +6,7 @@ class chat:
 
 	def __init__(self):
 
-		self.API = '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'
+		self.API = 'insert-api-here'
 
 
 	def request_text(self, filePath):
